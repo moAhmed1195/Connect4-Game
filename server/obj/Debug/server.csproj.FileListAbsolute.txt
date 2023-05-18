@@ -1,0 +1,44 @@
+E:\C#\server\bin\Debug\server.exe.config
+E:\C#\server\bin\Debug\server.exe
+E:\C#\server\bin\Debug\server.pdb
+E:\C#\server\obj\Debug\server.csproj.AssemblyReference.cache
+E:\C#\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+E:\C#\server\obj\Debug\server.Form1.resources
+E:\C#\server\obj\Debug\server.Properties.Resources.resources
+E:\C#\server\obj\Debug\server.csproj.GenerateResource.cache
+E:\C#\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\C#\server\obj\Debug\server.exe
+E:\C#\server\obj\Debug\server.pdb
+C:\Users\MANSI\Desktop\server\bin\Debug\server.exe.config
+C:\Users\MANSI\Desktop\server\bin\Debug\server.exe
+C:\Users\MANSI\Desktop\server\bin\Debug\server.pdb
+C:\Users\MANSI\Desktop\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\MANSI\Desktop\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANSI\Desktop\server\obj\Debug\server.Form1.resources
+C:\Users\MANSI\Desktop\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MANSI\Desktop\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\MANSI\Desktop\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\MANSI\Desktop\server\obj\Debug\server.exe
+C:\Users\MANSI\Desktop\server\obj\Debug\server.pdb
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\bin\Debug\server.exe.config
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\bin\Debug\server.exe
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\bin\Debug\server.pdb
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.Form1.resources
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.exe
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\server\obj\Debug\server.pdb
+C:\Users\MANSI\Desktop\11\server\bin\Debug\server.exe.config
+C:\Users\MANSI\Desktop\11\server\bin\Debug\server.exe
+C:\Users\MANSI\Desktop\11\server\bin\Debug\server.pdb
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.Form1.resources
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.exe
+C:\Users\MANSI\Desktop\11\server\obj\Debug\server.pdb

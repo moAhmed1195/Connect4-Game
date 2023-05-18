@@ -1,0 +1,63 @@
+E:\C#\client\bin\Debug\client.exe.config
+E:\C#\client\bin\Debug\client.exe
+E:\C#\client\bin\Debug\client.pdb
+E:\C#\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\C#\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\C#\client\obj\Debug\client.Form1.resources
+E:\C#\client\obj\Debug\client.Properties.Resources.resources
+E:\C#\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\C#\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\C#\client\obj\Debug\client.exe
+E:\C#\client\obj\Debug\client.pdb
+C:\Users\MANSI\Desktop\client\bin\Debug\client.exe.config
+C:\Users\MANSI\Desktop\client\bin\Debug\client.exe
+C:\Users\MANSI\Desktop\client\bin\Debug\client.pdb
+C:\Users\MANSI\Desktop\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\MANSI\Desktop\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANSI\Desktop\client\obj\Debug\client.Form1.resources
+C:\Users\MANSI\Desktop\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MANSI\Desktop\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\MANSI\Desktop\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\MANSI\Desktop\client\obj\Debug\client.exe
+C:\Users\MANSI\Desktop\client\obj\Debug\client.pdb
+C:\Users\MANSI\Desktop\client\obj\Debug\client.AcceptDialog.resources
+C:\Users\MANSI\Desktop\client\obj\Debug\client.again.resources
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\bin\Debug\client.exe.config
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\bin\Debug\client.exe
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\bin\Debug\client.pdb
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.AcceptDialog.resources
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.again.resources
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.Form1.resources
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.exe
+C:\Users\Eng.Omar Mohamed\Desktop\New folder\client\obj\Debug\client.pdb
+D:\ITI\C#\Final Project\11\client\bin\Debug\client.exe.config
+D:\ITI\C#\Final Project\11\client\bin\Debug\client.exe
+D:\ITI\C#\Final Project\11\client\bin\Debug\client.pdb
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.AcceptDialog.resources
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.again.resources
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.Form1.resources
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.Properties.Resources.resources
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.exe
+D:\ITI\C#\Final Project\11\client\obj\Debug\client.pdb
+C:\Users\MANSI\Desktop\11\client\bin\Debug\client.exe.config
+C:\Users\MANSI\Desktop\11\client\bin\Debug\client.exe
+C:\Users\MANSI\Desktop\11\client\bin\Debug\client.pdb
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.AcceptDialog.resources
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.again.resources
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.Form1.resources
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.exe
+C:\Users\MANSI\Desktop\11\client\obj\Debug\client.pdb
