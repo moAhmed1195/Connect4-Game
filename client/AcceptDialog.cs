@@ -28,6 +28,7 @@ namespace client
         {
             this.DialogResult= DialogResult.Yes;
             //
+            //test
         }
 
         private void btnNo_Click(object sender, EventArgs e)
